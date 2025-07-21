@@ -11,6 +11,7 @@
             "location": "Two Forks",
             "arrivalDate": "2016-02-09",
             "departureDate": "2016-04-28",
+            "transportation": { "mode": "Driving", "cost": 100 },
             "activities": [
                 { "title": "Hiking", "time": "8:00AM" },
                 { "title": "Creative Writing", "time": "11:00AM" }
@@ -20,6 +21,7 @@
             "location": "Thorofare Lookout",
             "arrivalDate": "2016-04-28",
             "departureDate": "2016-04-28",
+            "transportation": { "mode": "Hiking", "cost": 0 },
             "activities": [
                 { "title": "Cable Car Ride", "time": "4:00PM" },
                 { "title": "Helicopter Ride", "time": "4:12PM" }
